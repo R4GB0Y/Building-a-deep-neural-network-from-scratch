@@ -10,3 +10,5 @@ The next step is backpropagation, where errors are calculated and propagated bac
 To utilize the trained network, a prediction function is implemented, allowing for predictions on new data. Finally, all the components are encapsulated within a function called "neural_network," enabling easy usage and experimentation.
 
 By understanding the fundamental mathematics behind neural networks, this project provides a solid foundation for building and customizing deep learning models. It serves as a valuable resource for those interested in comprehending the inner workings of neural networks and optimizing their performance.
+
+In this repository, you will find that all the codes are written in a verbose style, emphasizing the clarity and understanding of the underlying logic. Each step is thoroughly explained through comments, ensuring that the code is self-documenting and facilitating a deeper comprehension of the implementation details. This approach aims to provide you with a clear understanding of the code's functionality, making it easier for you to navigate, modify, and build upon the existing codebase.
